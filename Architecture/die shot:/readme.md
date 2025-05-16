@@ -1,0 +1,1 @@
+- [RTX 5090 Chip Deep-Dive](https://youtu.be/rCwgAGG2sZQ)
